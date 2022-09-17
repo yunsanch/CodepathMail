@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![wordlewalkthru.gif](https://github.com/yunsanch/wordle/blob/master/WorldleWalkthru.gif)
+![CodepathMailewalkthru.gif](https://github.com/yunsanch/CodepathMail/blob/master/CodepathMailWalkthru.gif)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
